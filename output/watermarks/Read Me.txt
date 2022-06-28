@@ -1,0 +1,1 @@
+Watermark will add whatever text you want to the top left corner of your video. 
